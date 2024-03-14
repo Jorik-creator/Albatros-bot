@@ -1,4 +1,4 @@
-Important!
+# Important!
 
 In the config file, you can add your bot token path to shortcuts.
 
