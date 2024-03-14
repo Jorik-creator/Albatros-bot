@@ -1,6 +1,6 @@
 class Config:
-    BOT_TOKEN = '6604310529:AAEzDe9S8WJjHtQhVoCkzhN8g8Ezd8bs4Qk'
-    SHORTCUTS_DIR = r'C:/Users/ypoli/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Steam'
+    BOT_TOKEN = '' # Your TOKEN
+    SHORTCUTS_DIR = r'' Folder path to your dhortcut
     default_language = 'en'
 
 
